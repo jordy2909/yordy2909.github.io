@@ -1,0 +1,23 @@
+div center{
+    background-color: rgb(0, 60, 88);
+    height: 250px;
+    border: 3px solid rgb(83, 148, 160);
+    
+}
+center img  {
+       height: 200px;
+       width: 340px;
+}
+body h2{
+    color: rgb(0, 0, 0)
+}
+div{
+    background-color: rgb(38, 184, 45);
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+h4{
+    color: rgb(255, 255, 255)
+}
